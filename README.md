@@ -9,3 +9,7 @@ This project is develop in [Nodejs](https://nodejs.org) version 8.11.4 & [Expres
 ## Development server
 
 Run `node app.js` for a dev server. Navigate to `http://localhost:8080/`.
+
+## Authors
+
+* **Hugo Pereira** - *Initial work* - [GitHub](https://github.com/PereiraHugo)
