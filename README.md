@@ -1,20 +1,11 @@
 # Repixelated
 
-Nodejs, express
+This project is develop in [Nodejs](https://nodejs.org) version 8.11.4 & [Express](http://expressjs.com/) version 4.14.1.
 
-## Set Project
+## Installation
 
-before running you need to have nodejs install, then
+  Run `npm install` to install all the dependencies needed.
 
-'''
-  npm install
-'''
+## Development server
 
-## Running Project
-
-To execute the application run this command line.
-'''
-  node app.js
-'''
-
-Then go to the browser page on localhost:8080.
+Run `node app.js` for a dev server. Navigate to `http://localhost:8080/`.
