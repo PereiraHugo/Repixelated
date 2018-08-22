@@ -17,7 +17,7 @@ const mysqlx = require('@mysql/xdevapi');
 const options = {
   host: 'localhost',
   port: 33060,
-  password: 'Laureline1',
+  password: '',
   user: 'root',
   schema: 'repixelated-db' // created by default
 };
