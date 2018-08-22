@@ -1,6 +1,6 @@
 # Repixelated
 
-This project is develop in [Nodejs](https://nodejs.org) version 8.11.4 & [Express](http://expressjs.com/) version 4.14.1.
+This project is developed in [Nodejs](https://nodejs.org) version 8.11.4 & [Express](http://expressjs.com/) version 4.14.1.
 
 ## Installation
 
